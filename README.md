@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kharlchrisanaquino&color=0e75b6&style=flat)
 
-I'm an aspiring **Frontend Developer** currently interning at **DepEd Region IV-A Calabarzon**.  
+I'm an aspiring **Frontend Developer** currently interning at **Department of Education Region IV-A Calabarzon**.  
 During my internship, I worked with **Vue** and **Tailwind CSS** on real-world applications.  
 For my capstone project, I built a **full-stack Android app** using **Kotlin**.  
 Right now, I'm working on a **Special Order Application** at Department of Education and learning **React**, **Vue**, **Tailwind CSS**, and **Next.js**.
