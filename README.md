@@ -12,7 +12,7 @@ Right now, I'm working on a **Special Order Application** at Department of Educa
 ## 🚀 What I'm Learning & Using
 
 - 🔭 Currently building: Special Order App (Vue + Tailwind)
-- 📚 Learning: React, Vue, Tailwind CSS, Next.js
+- 📚 Learning: Vue, Tailwind CSS
 - 💼 Internship: Department of Education Region IV-A Calabarzon
 
 ---
@@ -24,14 +24,11 @@ Right now, I'm working on a **Special Order Application** at Department of Educa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ---
